@@ -1,4 +1,4 @@
-# Inteligencia Analitica De Datos MinTIC
+# Inteligencia Analitica De Datos - MinTIC
 _Repositorio de consulta para el Diplomado en Inteligencia Analitica De Datos con Python como parte de los cursos de oferta de formación de MinTIC._
 
 ![maest-analitica-datos_0](https://github.com/sierraporta/InteligenciaAnaliticaDeDatos_MinTIC/assets/29123331/0640c152-ddfc-4e5e-ba09-2bf4bcbb6401)
