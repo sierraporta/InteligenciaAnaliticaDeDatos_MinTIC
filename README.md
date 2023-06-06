@@ -15,7 +15,7 @@ Nuestro objetivo es proporcionarles una base sólida en el campo de la inteligen
 Estamos emocionados de embarcarnos en esta aventura de exploración de datos con ustedes. ¡Esperamos que aprovechen al máximo este curso y que salgan de aquí con las herramientas necesarias para convertirse en profesionales de la inteligencia analítica de datos!
 
 ## Encuesta diagnóstica inicial:
-Por favor ve al link siguiente y completa la encuesta: [Encuesta diagnóstica inicial](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QeURiEvJMIJOvGAO1YAE8NlUQTBISTgxMjdBTjlLV0lWRjg2MlpDM05NUC4u)
+Por favor ve al link siguiente y completa la encuesta: [Encuesta diagnóstica inicial](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QeURiEvJMIJOvGAO1YAE8NlUQTBISTgxMjdBTjlLV0lWRjg2MlpDM05NUC4u).
 
 ## Códigos:
 y demás materiales del curso los colocaremos en la carpeta de [Notebooks](Notebooks).
