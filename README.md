@@ -1,5 +1,6 @@
 # Inteligencia Analitica De Datos MinTIC
 Repositorio de consulta para el Diplomado en Inteligencia Analitica De Datos con Python como parte de los cursos de oferta de formación de MinTIC
+![maest-analitica-datos_0](https://github.com/sierraporta/InteligenciaAnaliticaDeDatos_MinTIC/assets/29123331/0640c152-ddfc-4e5e-ba09-2bf4bcbb6401)
 
 ## Introducción y motivación
 Bienvenidos al curso de Inteligencia Analítica de Datos. En un mundo cada vez más digitalizado, la capacidad de extraer conocimientos valiosos a partir de grandes volúmenes de datos se ha convertido en una habilidad imprescindible para las organizaciones y profesionales en diversos campos. Este curso está diseñado para brindarles las herramientas necesarias para comprender, analizar y aprovechar el poder de los datos en beneficio de su trabajo y toma de decisiones.
